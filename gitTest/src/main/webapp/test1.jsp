@@ -7,13 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<<<<<<< HEAD
 
-</body>
-</html>
-=======
 hello okay bye
     update
 </body>
 </html>
->>>>>>> branch 'master' of https://github.com/HyeKyungAhn/gitTest.git
